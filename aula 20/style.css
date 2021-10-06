@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    width:80%;
+    padding:0;
+    box-sizing: border-box;
+    
+}
+fieldset{
+    padding: 2px;
+}
+
+section#formulario{
+    margin: 30px auto;
+    padding: 5px;
+
+}
+form{
+    width:100%;
+    height: auto;
+    padding: 10px;
+}
+label{
+    display: block;
+    width: 100%;
+    height: auto;
+    padding: 2px;
+}
+.txt{
+    width:100%;
+    height: 30px;
+}
+#fim{
+    padding: 5px;
+    cursor: pointer;
+    background-color: #2196f3;
+}
